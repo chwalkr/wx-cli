@@ -1,11 +1,10 @@
-# wox-cli  [![image](https://img.shields.io/npm/v/wox-cli.svg)](https://www.npmjs.com/package/wox-cli)
+# wx-cli  [![image](https://img.shields.io/npm/v/wx-cli.svg)](https://www.npmjs.com/package/wx-cli)
 
-scaffold for wox
 
 ## Installation
 
 ```
-$ npm install wox-cli -g
+$ npm install wx-cli -g
 ```
 
 ## Usage
@@ -13,9 +12,9 @@ $ npm install wox-cli -g
 * help
 
 ```
-$ wox --help
+$ wx --help
 
-  Usage: wox [options] [command]
+  Usage: wx [options] [command]
 
   Commands:
 
@@ -30,7 +29,7 @@ $ wox --help
 * init [[type]](#type)
 
 ```
-$ wox init [type]
+$ wx init [type]
 ```
 
 ## Type
